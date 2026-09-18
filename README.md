@@ -1,15 +1,15 @@
-# Варіант 1: Три дерева Flutter
+ Варіант 1: Три дерева Flutter
 
-## Мета
+ Мета
 
-## 1. Експеримент із setState()
+ 1. Експеримент із setState()
 
-## 2. Дерева Widget, Element та RenderObject
+ 2. Дерева Widget, Element та RenderObject
 
-## 3. Перебудова після setState()
+ 3. Перебудова після setState()
 
-## 4. Зміна типу Widget
+ 4. Зміна типу Widget
 
-## 5. Правило перевикористання Element
+ 5. Правило перевикористання Element
 
-## Висновок
+ Висновок
